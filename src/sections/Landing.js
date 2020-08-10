@@ -77,7 +77,7 @@ const LandingPage = () => (
               mb={[3, 4, 5]}
             >
               {`${name}`}
-              <p>Udruženje Programera - Užice</p>
+              <p>Udruženje Programera Užice</p>
             </Heading>
             
             <Heading
